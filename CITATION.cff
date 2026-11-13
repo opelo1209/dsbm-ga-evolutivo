@@ -1,0 +1,28 @@
+# Add a `preferred-citation` block (journal, year, volume, pages, doi) once the
+# accompanying paper is published. Schema: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper it accompanies."
+title: "A Constraint-Aware Evolutionary Algorithm for Reducing Construction Principle Violations in Two-Dimensional Dual Site-Bond Porous Networks"
+type: software
+version: 2.0.0
+date-released: 2026-11-12
+license: MIT
+repository-code: "https://github.com/opelo1209/dsbm-porous-network-ga"
+keywords:
+  - evolutionary algorithm
+  - "(1+1)-EA"
+  - conflict-directed mutation
+  - dual site-bond model
+  - porous networks
+  - Construction Principle
+authors:
+  - family-names: Moreno-Montiel
+    given-names: Benjamin
+    affiliation: "Departamento de Ingeniería Eléctrica, Universidad Autónoma Metropolitana, Unidad Iztapalapa"
+    email: bmm@xanum.uam.mx
+  - family-names: Cordero-Sánchez
+    given-names: Salomón
+    affiliation: "Departamento de Química, Universidad Autónoma Metropolitana, Unidad Iztapalapa"
+  - family-names: Villegas-Cortez
+    given-names: Juan
+    affiliation: "Departamento de Sistemas, Universidad Autónoma Metropolitana, Unidad Azcapotzalco"
